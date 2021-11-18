@@ -11,7 +11,7 @@ Avisは、Fluentdを用いてマイクロサービスログやアクセスログ
 UI は Electron をベースとしており、カスタマイズが容易で、直感的で洗練されたUIとなっています。 
 
 ## Avisのアーキテクチャ  
-![avis-architecture](docs/avis_architecture.png)
+![avis-architecture](docs/avis_architecture_1118.png)
 
 ## AvisのUIフロントエンド
 AvisのUIフロントエンドは、Electronで構築されています。  
